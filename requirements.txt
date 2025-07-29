@@ -3,4 +3,4 @@ SQLAlchemy==1.4.25
 pandas==1.1.5    # Versión estable que debería evitar problemas de instalación
 numpy==1.19.3    # Una versión compatible con pandas 1.1.5
 gunicorn==20.1.0
-setuptools>=56.0.0
+setuptools==57.5.0
